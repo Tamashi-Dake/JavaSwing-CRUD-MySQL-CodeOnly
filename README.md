@@ -1,5 +1,6 @@
-# CodeOnly-JavaSwingCRUD-with-MySQL
- i hate making Javaswing ui with code only
+# Simple JavaSwingCRUD using MySQL and only code
+
+i hate making Javaswing ui manually like this ._.
 
 Run this by import to Netbeans projects folder
 
